@@ -1,0 +1,15 @@
+{
+  "name": "master-perspectives-marketplace",
+  "owner": { "name": "wytian" },
+  "metadata": {
+    "description": "Local marketplace hosting the Master Perspectives plugin (30 investor-mindset roleplay skills, vendored from github.com/hgsz2003/master30)."
+  },
+  "plugins": [
+    {
+      "name": "master-perspectives",
+      "displayName": "Master Perspectives",
+      "source": "./",
+      "description": "30 投资大师视角角色扮演 skill。激活后以该大师身份(口吻+决策框架)回应。skill 名形如 <name>-perspective(graham/buffett/lynch...)。仅供学习与思维实验,非投资建议。"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "master-perspectives",
+  "version": "0.1.0",
+  "description": "30 distilled investor-mindset roleplay skills (Benjamin Graham, Warren Buffett, Peter Lynch, and 27 more). Activating a skill makes the agent respond in that master's voice and decision framework. Methodology-only, for learning/thought-experiments — not investment advice. Source: github.com/hgsz2003/master30.",
+  "author": { "name": "hgsz2003" },
+  "license": "MIT",
+  "keywords": ["investing", "value-investing", "growth-investing", "roleplay", "perspective", "mental-models"]
+}
